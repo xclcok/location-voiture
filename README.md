@@ -7,3 +7,22 @@ Le site web permettra aux utilisateurs de rechercher des voitures.
 
 - diagramme de class : 
 ![Screenshot 2023-05-05 233032](https://user-images.githubusercontent.com/127624824/236582241-73a58b86-47b1-4d17-826b-70b11759f371.png)
+
+# fonctionnalites
+- les fonctionnalites principales du site incluraient :
+Pour customer
+* Inscription de customer.
+* chercher les voitures disponibles.
+* consulter home page.
+* passer des ordres.
+Pour Dealer
+* Inscription de dealer.
+* Ajouter une voiture.
+* supprimer une voiture.
+* Consulter les ordres.
+* Consulter les revenus.
+
+# les étapes de réalisation
+
+
+
