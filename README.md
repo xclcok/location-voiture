@@ -24,5 +24,8 @@ Pour Dealer
 
 # les étapes de réalisation
 
+![con1](https://user-images.githubusercontent.com/110390586/236588359-2327d7ab-401c-417e-86bb-247b406ec97a.png)
+
+![con](https://user-images.githubusercontent.com/110390586/236588360-efc7253f-e025-47e9-bdfd-3d4c1905eb61.png)
 
 
