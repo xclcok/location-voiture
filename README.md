@@ -10,12 +10,12 @@ Le site web permettra aux utilisateurs de rechercher des voitures.
 
 # fonctionnalites
 - les fonctionnalites principales du site incluraient :
-+Pour customer
+-Pour customer
 * Inscription de customer.
 * chercher les voitures disponibles.
 * consulter home page.
 * passer des ordres.
-+Pour Dealer
+-Pour Dealer
 * Inscription de dealer.
 * Ajouter une voiture.
 * supprimer une voiture.
